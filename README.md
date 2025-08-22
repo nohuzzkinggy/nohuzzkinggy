@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm nohuzzkinggy
 
-<!--
-**nohuzzkinggy/nohuzzkinggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal GitHub!  
+I'm a developer and a CCGS student, passionate about coding, learning, and building cool projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Developer: I enjoy working on various programming languages and frameworks.
+- 🎓 Student at CCGS: Always excited to learn and improve my skills.
+- 🚀 Exploring: Open-source, web development, automation, and more!
+
+## My Projects
+
+Here you'll find a variety of personal and school-related projects.  
+Feel free to explore, fork, or contribute!
+
+## Tech Stack
+
+- Languages: Python, JavaScript, Java, etc.
+- Frameworks: React, Node.js, Django, etc.
+- Tools: Git, VS Code, Docker
+
+## Get in Touch
+
+- Email: your.email@domain.com
+
+- GitHub: [@nohuzzkinggy](https://github.com/nohuzzkinggy)
+
+---
+
+*Thanks for visiting my GitHub!*
