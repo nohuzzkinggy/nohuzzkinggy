@@ -22,7 +22,7 @@ Feel free to explore, fork, or contribute!
 
 ## Get in Touch
 
-- Email: your.email@domain.com
+- Email: [Email Me](nohuzzkinggy@gmail.com)
 
 - GitHub: [@nohuzzkinggy](https://github.com/nohuzzkinggy)
 
